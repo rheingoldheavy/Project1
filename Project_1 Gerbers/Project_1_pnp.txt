@@ -1,0 +1,41 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=D6
+*Date=10:48:59
+*CreatedBy=Fritzing 0.9.0b.06.11.da4e
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;15.9057;-5.29735;0;Bottom;TXT1
+2;220;THT;39.6266;-20.9563;180;Bottom;R5
+3;;;66.2784;-8.79154;0;Bottom;TXT2
+4;;THT;66.2966;-34.9263;0;Bottom;J4
+5;;;70.2776;-33.3487;0;Bottom;TXT2
+6;;DIP16 [THT];54.2262;-22.9271;0;Bottom;74HC595
+7;;5 mm [THT];24.3866;-36.8874;0;Bottom;LED2
+8;;5 mm [THT];9.14659;-36.8874;0;Bottom;LED1
+9;;THT;66.2966;-13.3363;0;Bottom;J3
+10;;;70.3298;-28.2521;0;Bottom;TXT2
+11;;5 mm [THT];24.3866;-16.5674;0;Bottom;LED4
+12;220;THT;39.6266;-31.1163;180;Bottom;R3
+13;;;11.9058;-2.89112;0;Bottom;TXT1
+14;220;THT;39.6266;-15.8763;180;Bottom;R6
+15;220;THT;39.6266;-36.1963;180;Bottom;R2
+16;220;THT;39.6266;-10.7963;180;Bottom;R7
+17;;5 mm [THT];16.7666;-26.7274;0;Bottom;LED7
+18;;;66.186;-17.5412;0;Bottom;TXT2
+19;;5 mm [THT];24.3866;-26.7274;0;Bottom;LED3
+20;;5 mm [THT];9.14659;-16.5674;0;Bottom;LED5
+21;;THT;66.2966;-29.8463;0;Bottom;J5
+22;220;THT;39.6266;-41.2763;180;Bottom;R1
+23;;5 mm [THT];9.14659;-26.7274;0;Bottom;LED6
+24;220;THT;39.6266;-26.0363;180;Bottom;R4
+25;;;70.279;-35.9048;0;Bottom;TXT2
+26;;;70.3312;-30.8082;0;Bottom;TXT2
